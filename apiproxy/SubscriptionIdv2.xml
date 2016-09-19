@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<APIProxy revision="1" name="SubscriptionIdv2">
+<APIProxy revision="5" name="SubscriptionIdv2">
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
     <CreatedAt>1471871206806</CreatedAt>
     <CreatedBy>ankit.chunduru@gmail.com</CreatedBy>
